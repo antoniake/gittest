@@ -8,8 +8,7 @@ def main():
     print ('Outside Function')
     print(hello)
     
-main() 
 
-# if __name__ == '__main()__':
-#     main()
+if __name__ == '__main()__':
+    main()
     
