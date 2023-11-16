@@ -13,4 +13,4 @@ def main():
 if __name__ == '__main()__':
     main()
 
-print("goodbye!")
+print("goodbye to everybody!")
