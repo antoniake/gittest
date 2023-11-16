@@ -13,4 +13,4 @@ def main():
 
 if __name__ == '__main()__':
     main()
-    print("goodbye toni and clara!")
+    print("goodbye toni!")
